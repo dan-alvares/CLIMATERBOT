@@ -1,0 +1,1 @@
+bot: python climater_bot.py
